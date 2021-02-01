@@ -1,0 +1,26 @@
+{
+    "mobiles":[
+        {
+
+            "name":"Nokia 7.2",
+            "image":"img/nokia.jfif",
+            "price":16000 
+        },{
+            "name":"Samsung a31",
+            "image": "img/samsung.jfif",
+            "price":14000 
+        },{
+                "name":"MICROMAX IN",
+                "image":"img/micromax.jfif" ,
+                "price":13000 
+        },{
+                    "name":"note 8 pro",
+                    "image":"img/note8pro.jpg",
+                    "price":18000 
+        },{
+                        "name":"Iphone 11",
+                        "image":"img/iphone11.jfif",
+                        "price":56000 
+        }
+    ]
+}
